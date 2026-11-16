@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1830" width="1200" height="1830" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Infografis L2SE — Learner to Systems Engineer</title>
+<desc id="d">Ringkasan masalah yang diselesaikan L2SE, cara L2SE menjawabnya, tiga langkah memulai, alur satu sesi belajar, dan untuk siapa framework ini.</desc>
+<rect width="1200" height="1830" fill="#f8fafc"/>
+<rect width="1200" height="210" fill="#1e3a8a"/>
+<text x="60" y="100" font-size="68" font-weight="800" fill="#ffffff" text-anchor="start">L2SE</text>
+<text x="60" y="145" font-size="30" font-weight="600" fill="#bfdbfe" text-anchor="start">Learner to Systems Engineer</text>
+<text x="60" y="190" font-size="23" font-weight="400" fill="#e0f2fe" text-anchor="start">Mentor AI yang membuatmu bernalar seperti engineer, bukan sekadar menerima jawaban.</text>
+<rect x="930" y="60" width="210" height="54" rx="27" fill="#1d4ed8" stroke="#93c5fd" stroke-width="2"/>
+<text x="1035" y="95" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle">STEM untuk semua</text>
+<rect x="40" y="238" width="8" height="40" rx="4" fill="#be123c"/>
+<text x="62" y="268" font-size="32" font-weight="700" fill="#0f172a" text-anchor="start">Masalah yang diselesaikan</text>
+<rect x="40" y="300" width="545" height="128" rx="14" fill="#fff1f2" stroke="#fda4af" stroke-width="2"/>
+<circle cx="76" cy="338" r="20" fill="#be123c"/>
+<text x="76" y="346" font-size="22" font-weight="800" fill="#ffffff" text-anchor="middle">1</text>
+<text x="110" y="346" font-size="24" font-weight="700" fill="#881337" text-anchor="start">AI biasa memberi jawaban instan</text>
+<text x="64" y="384" font-size="20" font-weight="400" fill="#475569" text-anchor="start">Cepat selesai, tetapi pemahaman dangkal</text>
+<text x="64" y="412" font-size="20" font-weight="400" fill="#475569" text-anchor="start">dan membuat kita bergantung.</text>
+<rect x="615" y="300" width="545" height="128" rx="14" fill="#fff1f2" stroke="#fda4af" stroke-width="2"/>
+<circle cx="651" cy="338" r="20" fill="#be123c"/>
+<text x="651" y="346" font-size="22" font-weight="800" fill="#ffffff" text-anchor="middle">2</text>
+<text x="685" y="346" font-size="24" font-weight="700" fill="#881337" text-anchor="start">Penjelasan tidak mengenal kamu</text>
+<text x="639" y="384" font-size="20" font-weight="400" fill="#475569" text-anchor="start">Level, latar belakang, dan targetmu diabaikan:</text>
+<text x="639" y="412" font-size="20" font-weight="400" fill="#475569" text-anchor="start">terlalu sulit atau terlalu mudah.</text>
+<rect x="40" y="448" width="545" height="128" rx="14" fill="#fff1f2" stroke="#fda4af" stroke-width="2"/>
+<circle cx="76" cy="486" r="20" fill="#be123c"/>
+<text x="76" y="494" font-size="22" font-weight="800" fill="#ffffff" text-anchor="middle">3</text>
+<text x="110" y="494" font-size="24" font-weight="700" fill="#881337" text-anchor="start">Rumus dihafal, bukan dipahami</text>
+<text x="64" y="532" font-size="20" font-weight="400" fill="#475569" text-anchor="start">Sulit memecahkan masalah baru karena tidak</text>
+<text x="64" y="560" font-size="20" font-weight="400" fill="#475569" text-anchor="start">tahu asal-usul dan alasannya.</text>
+<rect x="615" y="448" width="545" height="128" rx="14" fill="#fff1f2" stroke="#fda4af" stroke-width="2"/>
+<circle cx="651" cy="486" r="20" fill="#be123c"/>
+<text x="651" y="494" font-size="22" font-weight="800" fill="#ffffff" text-anchor="middle">4</text>
+<text x="685" y="494" font-size="24" font-weight="700" fill="#881337" text-anchor="start">Ilmu cepat lupa dan tercecer</text>
+<text x="639" y="532" font-size="20" font-weight="400" fill="#475569" text-anchor="start">Tanpa catatan dan pengulangan, progres tidak</text>
+<text x="639" y="560" font-size="20" font-weight="400" fill="#475569" text-anchor="start">terlihat dan tidak bisa dipamerkan.</text>
+<rect x="40" y="596" width="545" height="128" rx="14" fill="#fff1f2" stroke="#fda4af" stroke-width="2"/>
+<circle cx="76" cy="634" r="20" fill="#be123c"/>
+<text x="76" y="642" font-size="22" font-weight="800" fill="#ffffff" text-anchor="middle">5</text>
+<text x="110" y="642" font-size="24" font-weight="700" fill="#881337" text-anchor="start">Guru kewalahan menyiapkan materi</text>
+<text x="64" y="680" font-size="20" font-weight="400" fill="#475569" text-anchor="start">Satu guru, banyak murid: waktu terbatas untuk</text>
+<text x="64" y="708" font-size="20" font-weight="400" fill="#475569" text-anchor="start">materi, soal, dan umpan balik per murid.</text>
+<rect x="615" y="596" width="545" height="128" rx="14" fill="#fff1f2" stroke="#fda4af" stroke-width="2"/>
+<circle cx="651" cy="634" r="20" fill="#be123c"/>
+<text x="651" y="642" font-size="22" font-weight="800" fill="#ffffff" text-anchor="middle">6</text>
+<text x="685" y="642" font-size="24" font-weight="700" fill="#881337" text-anchor="start">Sumber terbaik dunia sulit diakses</text>
+<text x="639" y="680" font-size="20" font-weight="400" fill="#475569" text-anchor="start">Buku, paper, dan kuliah terbuka umumnya</text>
+<text x="639" y="708" font-size="20" font-weight="400" fill="#475569" text-anchor="start">berbahasa asing, tanpa pendamping.</text>
+<rect x="40" y="754" width="8" height="40" rx="4" fill="#0f766e"/>
+<text x="62" y="784" font-size="32" font-weight="700" fill="#0f172a" text-anchor="start">Cara L2SE menjawabnya</text>
+<rect x="40" y="816" width="545" height="120" rx="14" fill="#f0fdfa" stroke="#5eead4" stroke-width="2"/>
+<circle cx="76" cy="852" r="18" fill="#0f766e"/>
+<path d="M67 852 l7 8 l13 -16" fill="none" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="108" y="860" font-size="24" font-weight="700" fill="#134e4a" text-anchor="start">Bertanya dulu, bantuan bertahap</text>
+<text x="64" y="898" font-size="20" font-weight="400" fill="#475569" text-anchor="start">Tangga Bantuan L1–L4: pertanyaan penuntun,</text>
+<text x="64" y="924" font-size="20" font-weight="400" fill="#475569" text-anchor="start">hint, contoh terpisah, lalu draf solusi.</text>
+<rect x="615" y="816" width="545" height="120" rx="14" fill="#f0fdfa" stroke="#5eead4" stroke-width="2"/>
+<circle cx="651" cy="852" r="18" fill="#0f766e"/>
+<path d="M642 852 l7 8 l13 -16" fill="none" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="683" y="860" font-size="24" font-weight="700" fill="#134e4a" text-anchor="start">Personal untukmu</text>
+<text x="639" y="898" font-size="20" font-weight="400" fill="#475569" text-anchor="start">LEARNER.md menyimpan jenjang, latar belakang,</text>
+<text x="639" y="924" font-size="20" font-weight="400" fill="#475569" text-anchor="start">target, bahasa, dan alat yang kamu punya.</text>
+<rect x="40" y="956" width="545" height="120" rx="14" fill="#f0fdfa" stroke="#5eead4" stroke-width="2"/>
+<circle cx="76" cy="992" r="18" fill="#0f766e"/>
+<path d="M67 992 l7 8 l13 -16" fill="none" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="108" y="1000" font-size="24" font-weight="700" fill="#134e4a" text-anchor="start">Dari prinsip dasar</text>
+<text x="64" y="1038" font-size="20" font-weight="400" fill="#475569" text-anchor="start">Turunkan rumus, prediksi sebelum eksperimen,</text>
+<text x="64" y="1064" font-size="20" font-weight="400" fill="#475569" text-anchor="start">cek kewajaran, uji lisan ala papan tulis.</text>
+<rect x="615" y="956" width="545" height="120" rx="14" fill="#f0fdfa" stroke="#5eead4" stroke-width="2"/>
+<circle cx="651" cy="992" r="18" fill="#0f766e"/>
+<path d="M642 992 l7 8 l13 -16" fill="none" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="683" y="1000" font-size="24" font-weight="700" fill="#134e4a" text-anchor="start">Jejak belajar milik kamu</text>
+<text x="639" y="1038" font-size="20" font-weight="400" fill="#475569" text-anchor="start">Log, kuis ulang 1-3-7-14-30 hari, glosarium,</text>
+<text x="639" y="1064" font-size="20" font-weight="400" fill="#475569" text-anchor="start">dan Project Showcase sebagai portofolio.</text>
+<rect x="40" y="1100" width="1120" height="56" rx="14" fill="#fffbeb" stroke="#fcd34d" stroke-width="2"/>
+<text x="600" y="1136" font-size="21" font-weight="600" fill="#92400e" text-anchor="middle">Integritas akademik: PR, ujian, dan kompetisi yang sedang berlangsung tidak dikerjakan untukmu.</text>
+<rect x="40" y="1196" width="8" height="40" rx="4" fill="#1d4ed8"/>
+<text x="62" y="1226" font-size="32" font-weight="700" fill="#0f172a" text-anchor="start">Cara pakai: 3 langkah</text>
+<rect x="40" y="1258" width="330" height="140" rx="14" fill="#eff6ff" stroke="#93c5fd" stroke-width="2"/>
+<circle cx="74" cy="1294" r="20" fill="#1d4ed8"/>
+<text x="74" y="1302" font-size="22" font-weight="800" fill="#ffffff" text-anchor="middle">1</text>
+<text x="108" y="1302" font-size="25" font-weight="700" fill="#1e3a8a" text-anchor="start">Ambil</text>
+<text x="62" y="1346" font-size="20" font-weight="600" fill="#0f172a" text-anchor="start">Klik “Use this template”</text>
+<text x="62" y="1376" font-size="19" font-weight="400" fill="#475569" text-anchor="start">atau unduh ZIP</text>
+<polygon points="380,1316 416,1316 416,1302 440,1328 416,1354 416,1340 380,1340" fill="#60a5fa" transform="translate(0,-12)"/>
+<rect x="435" y="1258" width="330" height="140" rx="14" fill="#eff6ff" stroke="#93c5fd" stroke-width="2"/>
+<circle cx="469" cy="1294" r="20" fill="#1d4ed8"/>
+<text x="469" y="1302" font-size="22" font-weight="800" fill="#ffffff" text-anchor="middle">2</text>
+<text x="503" y="1302" font-size="25" font-weight="700" fill="#1e3a8a" text-anchor="start">Buka di AI-mu</text>
+<text x="457" y="1346" font-size="20" font-weight="600" fill="#0f172a" text-anchor="start">Ketik: atur profil saya</text>
+<text x="457" y="1376" font-size="19" font-weight="400" fill="#475569" text-anchor="start">(wawancara ±2 menit)</text>
+<polygon points="775,1316 811,1316 811,1302 835,1328 811,1354 811,1340 775,1340" fill="#60a5fa" transform="translate(0,-12)"/>
+<rect x="830" y="1258" width="330" height="140" rx="14" fill="#eff6ff" stroke="#93c5fd" stroke-width="2"/>
+<circle cx="864" cy="1294" r="20" fill="#1d4ed8"/>
+<text x="864" y="1302" font-size="22" font-weight="800" fill="#ffffff" text-anchor="middle">3</text>
+<text x="898" y="1302" font-size="25" font-weight="700" fill="#1e3a8a" text-anchor="start">Belajar</text>
+<text x="852" y="1346" font-size="20" font-weight="600" fill="#0f172a" text-anchor="start">Ketik: mulai sesi belajar</text>
+<text x="852" y="1376" font-size="19" font-weight="400" fill="#475569" text-anchor="start">[topik]</text>
+<rect x="40" y="1428" width="8" height="40" rx="4" fill="#7c3aed"/>
+<text x="62" y="1458" font-size="32" font-weight="700" fill="#0f172a" text-anchor="start">Satu sesi belajar</text>
+<rect x="40" y="1486" width="172" height="64" rx="32" fill="#f5f3ff" stroke="#c4b5fd" stroke-width="2"/>
+<circle cx="70" cy="1518" r="15" fill="#7c3aed"/>
+<text x="70" y="1524" font-size="17" font-weight="800" fill="#ffffff" text-anchor="middle">1</text>
+<text x="92" y="1525" font-size="18" font-weight="600" fill="#4c1d95" text-anchor="start">Pemanasan</text>
+<rect x="228" y="1486" width="172" height="64" rx="32" fill="#f5f3ff" stroke="#c4b5fd" stroke-width="2"/>
+<circle cx="258" cy="1518" r="15" fill="#7c3aed"/>
+<text x="258" y="1524" font-size="17" font-weight="800" fill="#ffffff" text-anchor="middle">2</text>
+<text x="280" y="1525" font-size="18" font-weight="600" fill="#4c1d95" text-anchor="start">Penjelasan</text>
+<rect x="416" y="1486" width="172" height="64" rx="32" fill="#f5f3ff" stroke="#c4b5fd" stroke-width="2"/>
+<circle cx="446" cy="1518" r="15" fill="#7c3aed"/>
+<text x="446" y="1524" font-size="17" font-weight="800" fill="#ffffff" text-anchor="middle">3</text>
+<text x="468" y="1525" font-size="18" font-weight="600" fill="#4c1d95" text-anchor="start">Cek paham</text>
+<rect x="604" y="1486" width="172" height="64" rx="32" fill="#f5f3ff" stroke="#c4b5fd" stroke-width="2"/>
+<circle cx="634" cy="1518" r="15" fill="#7c3aed"/>
+<text x="634" y="1524" font-size="17" font-weight="800" fill="#ffffff" text-anchor="middle">4</text>
+<text x="656" y="1525" font-size="18" font-weight="600" fill="#4c1d95" text-anchor="start">Kuis 3 soal</text>
+<rect x="792" y="1486" width="172" height="64" rx="32" fill="#f5f3ff" stroke="#c4b5fd" stroke-width="2"/>
+<circle cx="822" cy="1518" r="15" fill="#7c3aed"/>
+<text x="822" y="1524" font-size="17" font-weight="800" fill="#ffffff" text-anchor="middle">5</text>
+<text x="844" y="1525" font-size="18" font-weight="600" fill="#4c1d95" text-anchor="start">Tugas kecil</text>
+<rect x="980" y="1486" width="172" height="64" rx="32" fill="#f5f3ff" stroke="#c4b5fd" stroke-width="2"/>
+<circle cx="1010" cy="1518" r="15" fill="#7c3aed"/>
+<text x="1010" y="1524" font-size="17" font-weight="800" fill="#ffffff" text-anchor="middle">6</text>
+<text x="1032" y="1525" font-size="18" font-weight="600" fill="#4c1d95" text-anchor="start">Catat log</text>
+<text x="600" y="1584" font-size="20" font-weight="400" fill="#475569" text-anchor="middle">Lalu kuis ulang di hari ke-1, 3, 7, 14, dan 30 agar ilmunya menetap.</text>
+<rect x="40" y="1620" width="8" height="40" rx="4" fill="#b45309"/>
+<text x="62" y="1650" font-size="32" font-weight="700" fill="#0f172a" text-anchor="start">Untuk siapa dan apa yang dipelajari</text>
+<rect x="40" y="1680" width="199" height="46" rx="23" fill="#fff7ed" stroke="#fdba74" stroke-width="2"/>
+<text x="139.5" y="1711" font-size="19" font-weight="600" fill="#9a3412" text-anchor="middle">Pelajar sekolah</text>
+<rect x="253" y="1680" width="135" height="46" rx="23" fill="#fff7ed" stroke="#fdba74" stroke-width="2"/>
+<text x="320.5" y="1711" font-size="19" font-weight="600" fill="#9a3412" text-anchor="middle">Mahasiswa</text>
+<rect x="402" y="1680" width="124" height="46" rx="23" fill="#fff7ed" stroke="#fdba74" stroke-width="2"/>
+<text x="464.0" y="1711" font-size="19" font-weight="600" fill="#9a3412" text-anchor="middle">Engineer</text>
+<rect x="540" y="1680" width="167" height="46" rx="23" fill="#fff7ed" stroke="#fdba74" stroke-width="2"/>
+<text x="623.5" y="1711" font-size="19" font-weight="600" fill="#9a3412" text-anchor="middle">Guru &amp; dosen</text>
+<rect x="721" y="1680" width="199" height="46" rx="23" fill="#fff7ed" stroke="#fdba74" stroke-width="2"/>
+<text x="820.5" y="1711" font-size="19" font-weight="600" fill="#9a3412" text-anchor="middle">Pembelajar umum</text>
+<rect x="40" y="1740" width="146" height="46" rx="23" fill="#ecfeff" stroke="#67e8f9" stroke-width="2"/>
+<text x="113.0" y="1771" font-size="19" font-weight="600" fill="#155e75" text-anchor="middle">Matematika</text>
+<rect x="200" y="1740" width="103" height="46" rx="23" fill="#ecfeff" stroke="#67e8f9" stroke-width="2"/>
+<text x="251.5" y="1771" font-size="19" font-weight="600" fill="#155e75" text-anchor="middle">Fisika</text>
+<rect x="317" y="1740" width="209" height="46" rx="23" fill="#ecfeff" stroke="#67e8f9" stroke-width="2"/>
+<text x="421.5" y="1771" font-size="19" font-weight="600" fill="#155e75" text-anchor="middle">Computer Science</text>
+<rect x="540" y="1740" width="252" height="46" rx="23" fill="#ecfeff" stroke="#67e8f9" stroke-width="2"/>
+<text x="666.0" y="1771" font-size="19" font-weight="600" fill="#155e75" text-anchor="middle">Software Engineering</text>
+<rect x="806" y="1740" width="114" height="46" rx="23" fill="#ecfeff" stroke="#67e8f9" stroke-width="2"/>
+<text x="863.0" y="1771" font-size="19" font-weight="600" fill="#155e75" text-anchor="middle">English</text>
+<rect x="934" y="1740" width="124" height="46" rx="23" fill="#ecfeff" stroke="#67e8f9" stroke-width="2"/>
+<text x="996.0" y="1771" font-size="19" font-weight="600" fill="#155e75" text-anchor="middle">Japanese</text>
+<rect y="1796" width="1200" height="34" fill="#1e3a8a"/>
+<text x="600" y="1819" font-size="16" font-weight="400" fill="#dbeafe" text-anchor="middle">Markdown + Git · lisensi MIT · beta v0.1.0 · dirancang lintas platform lewat AGENTS.md</text>
+</svg>

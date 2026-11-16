@@ -1,0 +1,78 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment and Secret Files (PENTING: Jangan bocorkan credential)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.cert
+
+# Node.js / Frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+dist/
+build/
+.next/
+.cache/
+
+# Go
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+
+# Java / JVM
+*.class
+*.jar
+*.war
+target/
+.gradle/
+
+# C / C++
+*.o
+*.obj
+*.app
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# IDE / Editor Settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary & Log Files
+*.log
+tmp/
+temp/
+
+# Standalone / Nested Projects inside Topic Folders
+# Secara default, proyek nyata di dalam folder projects/ dikelola sebagai repo Git mandiri (multi-repo)
+# atau tetap lokal agar repositori framework utama tetap ringan (pertahankan .gitkeep).
+# Untuk melacak mini-lab tertentu ke dalam repo utama, gunakan: git add -f <path>
+**/projects/*
+!**/projects/.gitkeep

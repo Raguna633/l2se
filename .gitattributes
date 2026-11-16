@@ -1,0 +1,8 @@
+# Normalisasi akhir baris: simpan LF di repositori untuk semua berkas teks.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary

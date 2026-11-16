@@ -1,0 +1,22 @@
+name: Check docs
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    # Hanya berjalan di repositori utama L2SE, bukan di repositori pengguna yang dibuat dari template.
+    if: github.repository == 'Raguna633/l2se'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Periksa tautan, ukuran berkas aturan, dan Protokol Bersama
+        run: python scripts/check_docs.py
