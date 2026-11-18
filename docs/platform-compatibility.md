@@ -44,6 +44,6 @@ Beberapa platform memotong berkas aturan yang terlalu besar (Antigravity membata
 ## Cara Menguji Platform Baru
 
 1. Buka repositori di platform tersebut tanpa `LEARNER.md`.
-2. Kirim pesan "halo". Mentor yang memuat aturan dengan benar akan menyapa dan menawarkan `"atur profil saya"`.
-3. Ketik `"mulai sesi belajar [topik]"`. Mentor seharusnya memulai dengan pertanyaan pemanasan, satu per pesan.
+2. Kirim pesan "halo". Mentor yang memuat aturan dengan benar akan menyapa dan menawarkan `"atur profil saya"` (atau meminta topik + 3 konteks mini).
+3. Ketik `"mulai sesi belajar fisika"` tanpa membuat `LEARNER.md`. Mentor seharusnya menyambut topiknya dan menanyakan 3 konteks mini wajib terlebih dahulu sebelum menjelaskan materi, lalu memulai pemanasan satu per pesan.
 4. Laporkan hasilnya lewat *issue* dengan template **Laporan Uji Platform**.

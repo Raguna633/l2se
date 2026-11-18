@@ -6,6 +6,11 @@ Format mengikuti [Keep a Changelog](https://keepachangelog.com/id-ID/1.1.0/), da
 
 ## [Unreleased]
 
+### Diubah
+- Onboarding di `AGENTS.md`, `docs/cara-kerja.md`, `docs/getting-started.md`, dan `docs/platform-compatibility.md`: menerapkan **Profil Mini Wajib (3 konteks)** sebelum masuk ke materi serta *progressive profiling*, beserta aturan penanganan input ambigu (maksimal 1 klarifikasi konkret).
+- Penguatan *tone* mentor di `AGENTS.md`, `mathematics/foundations/rules.md`, dan `science/physics/rules.md`: **hangat tetapi tegas** (*anti-sycophancy*, tidak meloloskan jawaban setengah benar, menahan desakan jawaban instan).
+- Sinkronisasi `PROTOKOL-BERSAMA` **v6** di tiga berkas mentor *software*.
+
 ## [0.1.0] - 2026-11-18
 
 Rilis beta pertama dengan nama **L2SE — Learner to Systems Engineer**.

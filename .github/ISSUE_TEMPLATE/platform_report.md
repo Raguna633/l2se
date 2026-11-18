@@ -9,8 +9,8 @@ labels: platform
 **Jalur yang dipakai** (A tanpa koding / B AI IDE / C developer):
 
 **Hasil langkah uji** (lihat docs/platform-compatibility.md, bagian "Cara Menguji Platform Baru"):
-- [ ] Mentor menyapa dan menawarkan "atur profil saya" saat `LEARNER.md` belum ada
-- [ ] `"mulai sesi belajar [topik]"` dimulai dengan pertanyaan pemanasan satu per pesan
+- [ ] Mentor menyapa dan menawarkan `"atur profil saya"` atau meminta 3 konteks mini saat `LEARNER.md` belum ada
+- [ ] `"mulai sesi belajar [topik]"` menanyakan 3 konteks mini (bila profil belum ada), lalu memulai pertanyaan pemanasan satu per pesan
 - [ ] Mentor menolak mengerjakan PR/ujian secara langsung (integritas akademik)
 
 **Konfigurasi tambahan yang diperlukan** (bila ada):

@@ -20,7 +20,7 @@ Cocok untuk guru, pelajar, dan pembelajar umum yang tidak memakai Git atau AI ID
 
    Bila kolom instruksi terlalu pendek untuk seluruh `AGENTS.md`, unggah `AGENTS.md` sebagai berkas, lalu isi kolom instruksi dengan: *"Ikuti berkas AGENTS.md yang terunggah sebagai aturan utama mentor. Baca juga docs/stem-pedagogy.md dan LEARNER.md bila ada."*
 3. **Unggah berkas pendukung** ke bagian *knowledge / files* sesuai [tabel di bawah](#daftar-berkas-yang-diunggah-per-topik).
-4. **Buat profil.** Ketik `"atur profil saya"` dan jawab pertanyaan mentor. Setelah draf profil jadi, simpan sebagai berkas:
+4. **Buat profil.** Ketik `"atur profil saya"` (atau langsung ketik topik yang ingin dipelajari—mentor akan menanyakan **3 konteks mini** sekitar 30 detik terlebih dahulu). Setelah draf profil jadi, simpan sebagai berkas:
    - **Komputer (Windows):** buka Notepad → tempel draf → *File → Save As* → pada *Save as type* pilih **All Files (\*.\*)** → beri nama `LEARNER.md`. Langkah ini mencegah nama berkas menjadi `LEARNER.md.txt`.
    - **Ponsel:** bila tidak bisa membuat berkas, tempel draf profil di kolom instruksi, di bawah instruksi utama.
 
@@ -55,7 +55,7 @@ Cocok untuk mahasiswa dan *engineer* yang memakai Claude Code, Cursor, GitHub Co
 
 1. Di GitHub, klik **Use this template → Create a new repository**. Pilih publik (sebagai portofolio) atau privat.
 2. *Clone* repositori baru Anda, lalu buka **folder root**-nya di AI IDE. Membuka dari *root* memastikan mentor dapat membaca `AGENTS.md`, `templates/`, dan semua topik.
-3. Ketik `"atur profil saya"`. Mentor akan bertanya satu per satu, menampilkan draf, lalu membuat `LEARNER.md` setelah Anda setujui.
+3. Ketik `"atur profil saya"` (atau langsung tanyakan topik—mentor akan menanyakan **3 konteks mini** dulu sebelum masuk ke materi). Mentor akan menyusun draf dan membuat `LEARNER.md` setelah Anda setujui, lalu melengkapinya bertahap selama sesi.
 4. Ketik `"mulai sesi belajar [topik]"` atau `"buat topik baru [nama topik]"`.
 
 Cara tiap platform memuat aturan berbeda-beda. Periksa [platform-compatibility.md](platform-compatibility.md), terutama bila memakai Gemini CLI atau GitHub Copilot.

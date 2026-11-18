@@ -35,19 +35,19 @@ flowchart TD
     E --> F
     F["AI memuat AGENTS.md<br/>Claude Code lewat CLAUDE.md"] --> G{"LEARNER.md sudah ada?"}
 
-    G -->|"Belum"| H["Mentor menyapa dan menawarkan<br/>'atur profil saya'"]
-    H --> I{"Isi profil sekarang?"}
-    I -->|"Ya, sekitar 2 menit"| J["Wawancara: satu pertanyaan per pesan<br/>peran dan jenjang, latar belakang, target,<br/>waktu, gaya belajar, aksesibilitas<br/>semua boleh dilewati"]
+    G -->|"Belum"| H["Mentor menyapa atau menyambut topik<br/>tawarkan 'atur profil saya' atau 3 konteks mini:<br/>peran & jenjang, hal yang dikuasai, target"]
+    H --> I{"Pilih jalur profil"}
+    I -->|"Wawancara lengkap ('atur profil saya')"| J["Wawancara lengkap satu per pesan<br/>semua pertanyaan boleh dilewati"]
+    I -->|"3 konteks mini (~30 detik)"| M0["Klarifikasi maks 1 kali jika ambigu,<br/>susun draf awal LEARNER.md,<br/>lalu langsung masuk ke materi"]
     J --> K["Mentor menampilkan draf profil"]
     K --> L{"Draf sudah sesuai?"}
     L -->|"Perlu diubah"| J
     L -->|"Ya"| M["Simpan sebagai LEARNER.md<br/>Jalur A: simpan lewat Notepad lalu unggah"]
-    I -->|"Nanti saja"| N["Asumsi aman: pemula, Bahasa Indonesia,<br/>analogi sehari-hari, satu pertanyaan diagnosis"]
+    M0 --> O["Mentor membaca profil dan menyesuaikannya<br/>secara bertahap selama sesi (progressive profiling)"]
 
-    G -->|"Sudah"| O["Mentor membaca profil:<br/>bahasa, jenjang, analogi, target, alat"]
+    G -->|"Sudah"| O
     M --> O
     O --> P
-    N --> P
 
     P{"Topik yang ingin dipelajari?"}
     P -->|"Belum ada"| Q["'buat topik baru [nama]'<br/>README, notes/learning-log.md,<br/>notes/glossary.md, projects/"]
