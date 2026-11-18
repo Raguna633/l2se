@@ -42,8 +42,8 @@ flowchart TD
     J --> K["Mentor menampilkan draf profil"]
     K --> L{"Draf sudah sesuai?"}
     L -->|"Perlu diubah"| J
-    L -->|"Ya"| M["Simpan sebagai LEARNER.md<br/>Jalur A: simpan lewat Notepad lalu unggah"]
-    M0 --> O["Mentor membaca profil dan menyesuaikannya<br/>secara bertahap selama sesi (progressive profiling)"]
+    L -->|"Ya"| M["Simpan sebagai LEARNER.md<br/>Jalur A: unduh berkas dari chat<br/>atau simpan lewat Notepad, lalu unggah"]
+    M0 --> O["Mentor membaca profil dan memperbarui<br/>Catatan Pengamatan Mentor secara proaktif"]
 
     G -->|"Sudah"| O
     M --> O
@@ -144,11 +144,11 @@ flowchart TD
 ```mermaid
 %%{init: {"flowchart": {"nodeSpacing": 24, "rankSpacing": 30}}}%%
 flowchart TD
-    A(["Sesi selesai"]) --> B["Pelajar mengetik 'catat log'"]
-    B --> C["Mentor menyusun draf entri<br/>format template-learning-log"]
-    C --> D{"Platform bisa<br/>menulis berkas?"}
-    D -->|"Ya, AI IDE"| E["Setelah dikonfirmasi, simpan ke<br/>notes/learning-log.md<br/>plus Daftar Parkir, Antrean Kuis Ulang,<br/>dan glossary.md"]
-    D -->|"Tidak, aplikasi chat"| F["Mentor memberi entri siap salin<br/>pelajar menempel ke berkas sendiri<br/>lalu mengunggah ulang"]
+    A(["Sesi selesai atau subtopik tuntas"]) --> B["Mentor secara proaktif menyusun log<br/>atau pelajar mengetik 'catat log'"]
+    B --> C["Draf entri log + Catatan Pengamatan Mentor"]
+    C --> D{"Platform bisa menulis<br/>ke folder lokal?"}
+    D -->|"Ya, AI IDE"| E["Simpan ke notes/learning-log.md,<br/>glossary.md, dan LEARNER.md<br/>(setelah konfirmasi atau langsung jika mode Otomatis)"]
+    D -->|"Aplikasi chat web"| F["Mentor membuatkan berkas siap unduh<br/>atau blok siap salin untuk diunggah ulang"]
     E --> G
     F --> G
     G["Jadwal ulang:<br/>hari ke-1, 3, 7, 14, 30"] --> H["Saat jatuh tempo: 'kuis ulang'<br/>uji konsep tanpa hint"]

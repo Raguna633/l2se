@@ -20,14 +20,15 @@ Cocok untuk guru, pelajar, dan pembelajar umum yang tidak memakai Git atau AI ID
 
    Bila kolom instruksi terlalu pendek untuk seluruh `AGENTS.md`, unggah `AGENTS.md` sebagai berkas, lalu isi kolom instruksi dengan: *"Ikuti berkas AGENTS.md yang terunggah sebagai aturan utama mentor. Baca juga docs/stem-pedagogy.md dan LEARNER.md bila ada."*
 3. **Unggah berkas pendukung** ke bagian *knowledge / files* sesuai [tabel di bawah](#daftar-berkas-yang-diunggah-per-topik).
-4. **Buat profil.** Ketik `"atur profil saya"` (atau langsung ketik topik yang ingin dipelajari—mentor akan menanyakan **3 konteks mini** sekitar 30 detik terlebih dahulu). Setelah draf profil jadi, simpan sebagai berkas:
-   - **Komputer (Windows):** buka Notepad → tempel draf → *File → Save As* → pada *Save as type* pilih **All Files (\*.\*)** → beri nama `LEARNER.md`. Langkah ini mencegah nama berkas menjadi `LEARNER.md.txt`.
-   - **Ponsel:** bila tidak bisa membuat berkas, tempel draf profil di kolom instruksi, di bawah instruksi utama.
+4. **Buat profil.** Ketik `"atur profil saya"` (atau langsung ketik topik yang ingin dipelajari—mentor akan menanyakan **3 konteks mini** sekitar 30 detik terlebih dahulu). Setelah profil disusun:
+   - **Unduh berkas langsung (paling mudah):** di Claude (*Artifacts*) atau ChatGPT, mentor akan membuatkan berkas `LEARNER.md` yang bisa langsung Anda klik **Download**.
+   - **Cadangan manual (Komputer Windows):** bila tombol unduh berkas tidak muncul, buka Notepad → tempel draf → *File → Save As* → pada *Save as type* pilih **All Files (\*.\*)** → beri nama `LEARNER.md` (agar tidak menjadi `LEARNER.md.txt`).
+   - **Ponsel:** bila tidak bisa mengunggah berkas, tempel draf profil di kolom instruksi, di bawah instruksi utama.
 
-   Unggah `LEARNER.md` ke ruang belajar yang sama.
+   Unggah `LEARNER.md` ke bagian *files / knowledge* ruang belajar yang sama.
 5. **Belajar.** Ketik `"mulai sesi belajar [topik]"`.
 
-**Keterbatasan jalur ini:** aplikasi chat umumnya tidak bisa menulis berkas. Saat Anda mengetik `"catat log"`, mentor memberi entri siap salin. Tempel entri itu ke `learning-log.md` topik Anda, lalu unggah ulang berkasnya agar `"kuis ulang"` tetap akurat.
+**Catatan pembaruan berkas di jalur ini:** aplikasi chat web tidak bisa langsung menimpa berkas di dalam folder komputer Anda. Setiap selesai sesi (atau saat Anda mengetik `"catat log"`), mentor akan memberikan berkas `learning-log.md` siap unduh (atau blok teks siap salin) untuk Anda unggah ulang ke ruang belajar agar fitur `"kuis ulang"` tetap akurat.
 
 ### Daftar Berkas yang Diunggah per Topik
 

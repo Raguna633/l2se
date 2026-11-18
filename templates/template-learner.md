@@ -41,6 +41,7 @@ AI memakai hal yang sudah Anda kuasai sebagai analogi awal, lalu menunjukkan di 
 * **Tingkat Kedalaman:** (Ringkas & praktis / Seimbang / Mendalam sampai alasan filosofis dan *trade-off*)
 * **Gaya Penjelasan Favorit:** (analogi sehari-hari / contoh kode / visual & diagram / studi kasus / langkah demi langkah)
 * **Metode yang Disukai:** (tanya jawab *Socratic* / *Feynman technique* / kuis rutin / eksperimen langsung / *spaced repetition*)
+* **Mode Pembaruan Memori:** Minta konfirmasi dulu *(default)* / Otomatis *(izinkan mentor di AI IDE langsung memperbarui `LEARNER.md`, `learning-log.md`, dan `glossary.md` tanpa menunggu perintah eksplisit)*
 
 ## 6. Kebutuhan Khusus & Aksesibilitas (opsional)
 * (mis. kalimat pendek karena disleksia, hindari diagram hanya-warna karena buta warna, butuh jeda istirahat terjadwal)
@@ -49,3 +50,9 @@ AI memakai hal yang sudah Anda kuasai sebagai analogi awal, lalu menunjukkan di 
 * **Pelajar sekolah / Mahasiswa:** mata pelajaran atau mata kuliah yang sedang diambil, kurikulum (mis. Kurikulum Merdeka).
 * **Guru / Dosen:** mata pelajaran yang diampu, jenjang dan karakter peserta didik, kebutuhan (materi ajar, bank soal, rubrik, analogi kelas).
 * **Engineer / Profesional:** *stack* atau domain kerja saat ini, target karier.
+
+## 8. Catatan Pengamatan Mentor (Diisi & Diperbarui oleh AI Mentor)
+*Bagian ini dipelihara oleh AI Mentor berdasarkan jalannya sesi belajar agar kesinambungan antar-sesi dan lintas platform tetap terjaga.*
+* **Analogi & Representasi yang Terbukti Efektif:** 
+* **Pola Kesalahan yang Perlu Diwaspadai (`[KONSEP]` / `[MODEL]` / `[EKSEKUSI]`):** 
+* **Kalibrasi Tingkat & Ketegasan Aktual:** 

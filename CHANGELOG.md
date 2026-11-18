@@ -6,6 +6,9 @@ Format mengikuti [Keep a Changelog](https://keepachangelog.com/id-ID/1.1.0/), da
 
 ## [Unreleased]
 
+### Ditambahkan
+- **Pembaruan Memori Proaktif (*Event-Driven*) & Catatan Pengamatan Mentor** di `AGENTS.md` dan `templates/template-learner.md`: mentor aktif mengusulkan atau menyimpan pembaruan `LEARNER.md` (termasuk pola kesalahan dan analogi efektif), `learning-log.md`, dan `glossary.md` tanpa harus menunggu perintah eksplisit, dilengkapi opsi `Mode Pembaruan Memori: Otomatis` untuk AI IDE serta pembuatan berkas siap unduh untuk aplikasi *chat* web.
+
 ### Diubah
 - Onboarding di `AGENTS.md`, `docs/cara-kerja.md`, `docs/getting-started.md`, dan `docs/platform-compatibility.md`: menerapkan **Profil Mini Wajib (3 konteks)** sebelum masuk ke materi serta *progressive profiling*, beserta aturan penanganan input ambigu (maksimal 1 klarifikasi konkret).
 - Penguatan *tone* mentor di `AGENTS.md`, `mathematics/foundations/rules.md`, dan `science/physics/rules.md`: **hangat tetapi tegas** (*anti-sycophancy*, tidak meloloskan jawaban setengah benar, menahan desakan jawaban instan).
