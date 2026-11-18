@@ -3,7 +3,7 @@
 [![Check docs](https://github.com/Raguna633/l2se/actions/workflows/check-docs.yml/badge.svg)](https://github.com/Raguna633/l2se/actions/workflows/check-docs.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![Status: beta](https://img.shields.io/badge/status-beta%20v0.1.0-orange)
 
 **Mentor AI untuk belajar STEM dari prinsip dasar, menuju cara berpikir seorang *engineer*.**
-*An AI mentor framework for learning STEM from first principles.*
+*An AI mentor framework for learning STEM from first principles.* — 🌐 **[English Overview (`README.en.md`)](README.en.md)**
 
 > **Status: beta (`v0.1.0`).** Struktur dan aturan sudah dapat dipakai, tetapi belum diuji luas oleh banyak pengguna. Masukan sangat diharapkan lewat [Issues](https://github.com/Raguna633/l2se/issues).
 
@@ -114,7 +114,7 @@ Topik berikut adalah **paket topik bawaan**. Sesuaikan dengan `"sesuaikan topik 
 | **E** — Engineering | Software: Backend (Go) | [README](engineering/software/go/README.md) · [Log](engineering/software/go/notes/learning-log.md) · [Glosarium](engineering/software/go/notes/glossary.md) | [Bagian 1](engineering/software/go/rules.md) · [Bagian 2](engineering/software/go/rules-concepts-and-antipatterns.md) |
 | **E** — Engineering | Software: Frontend (React & TypeScript) | [README](engineering/software/react/README.md) · [Log](engineering/software/react/notes/learning-log.md) · [Glosarium](engineering/software/react/notes/glossary.md) | [Bagian 1](engineering/software/react/rules.md) · [Bagian 2](engineering/software/react/rules-patterns-and-architecture.md) |
 | **E** — Engineering | Software: Mobile Web UI/UX | [README](engineering/software/ui-ux-mobile/README.md) · [Log](engineering/software/ui-ux-mobile/notes/learning-log.md) · [Glosarium](engineering/software/ui-ux-mobile/notes/glossary.md) | [Rules](engineering/software/ui-ux-mobile/rules.md) |
-| Bahasa | English for STEM | [README](languages/english/README.md) · [Log](languages/english/notes/learning-log.md) · [Glosarium](languages/english/notes/glossary.md) | Mengikuti [AGENTS.md](AGENTS.md) |
+| Bahasa | English for STEM | [README](languages/english/README.md) · [Roadmap](languages/english/roadmap.md) · [Log](languages/english/notes/learning-log.md) · [Glosarium](languages/english/notes/glossary.md) | Mengikuti [AGENTS.md](AGENTS.md) |
 | Bahasa | Japanese for STEM (mis. persiapan beasiswa MEXT) | [README](languages/japanese/README.md) · [Roadmap](languages/japanese/roadmap.md) · [Log](languages/japanese/notes/learning-log.md) · [Glosarium](languages/japanese/notes/glossary.md) | Pedoman mentor di [README](languages/japanese/README.md) |
 
 Cabang rekayasa lain (elektro, mesin, sipil, kimia) dan sains lain (kimia, biologi) dapat ditambahkan dengan struktur yang sama. Lihat [CONTRIBUTING.md](CONTRIBUTING.md).

@@ -30,6 +30,12 @@
 * **Tingkat Kedalaman:** Seimbang.
 * **Gaya Penjelasan Favorit:** Analogi sehari-hari dan gambar sederhana.
 * **Metode yang Disukai:** Kuis rutin.
+* **Mode Pembaruan Memori:** Minta konfirmasi dulu *(default)*.
 
 ## 7. Catatan Khusus
 * **Pelajar sekolah:** Kurikulum Merdeka. PR dan ulangan harian harus dikerjakan sendiri.
+
+## 8. Catatan Pengamatan Mentor (Diisi & Diperbarui oleh AI Mentor)
+* **Analogi & Representasi yang Terbukti Efektif:** Analogi gerak kok bulu tangkis dan gambar diagram panah sederhana sangat membantu sebelum masuk ke persamaan.
+* **Pola Kesalahan yang Perlu Diwaspadai (`[KONSEP]` / `[MODEL]` / `[EKSEKUSI]`):** `[KONSEP]` Sering menyamakan massa dengan berat, serta mengira benda di puncak gerak vertikal memiliki percepatan nol; `[EKSEKUSI]` kadang lupa mengonversi cm ke m.
+* **Kalibrasi Tingkat & Ketegasan Aktual:** Cepat menangkap intuisi visual, tetapi perlu ditahan agar tidak langsung menebak rumus tanpa menggambar diagram benda bebas lebih dulu.

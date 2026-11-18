@@ -25,6 +25,12 @@
 * **Bahasa Komunikasi:** Bahasa Indonesia; istilah asing boleh asal dijelaskan.
 * **Tingkat Kedalaman:** Ringkas & praktis.
 * **Gaya Penjelasan Favorit:** Analogi dapur dan eksperimen kecil yang bisa langsung dicoba saat memasak.
+* **Mode Pembaruan Memori:** Minta konfirmasi dulu *(default)*.
 
 ## 6. Kebutuhan Khusus & Aksesibilitas
 * Kalimat pendek karena sering membaca dari ponsel.
+
+## 8. Catatan Pengamatan Mentor (Diisi & Diperbarui oleh AI Mentor)
+* **Analogi & Representasi yang Terbukti Efektif:** Tabel perbandingan takaran gram/persen (roti *baker's percentage*) jauh lebih mudah dipahami daripada notasi aljabar $x/y$.
+* **Pola Kesalahan yang Perlu Diwaspadai (`[KONSEP]` / `[MODEL]` / `[EKSEKUSI]`):** `[KONSEP]` Sempat menyamakan suhu panas kompor dengan jumlah kalor total; `[EKSEKUSI]` keliru saat mengubah pecahan campuran ke persen ketika melipatgandakan porsi.
+* **Kalibrasi Tingkat & Ketegasan Aktual:** Paling nyaman dengan 1 konsep pendek per pesan dan eksperimen langsung di dapur.

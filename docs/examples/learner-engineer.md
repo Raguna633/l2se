@@ -28,3 +28,9 @@
 * **Tingkat Kedalaman:** Mendalam sampai *trade-off*.
 * **Gaya Penjelasan Favorit:** Contoh kode dan eksperimen langsung.
 * **Metode yang Disukai:** *Socratic* dan eksperimen dengan alat observasi.
+* **Mode Pembaruan Memori:** Otomatis *(di AI IDE)*.
+
+## 8. Catatan Pengamatan Mentor (Diisi & Diperbarui oleh AI Mentor)
+* **Analogi & Representasi yang Terbukti Efektif:** Perbandingan langsung antara `asyncio` event loop Python vs Go runtime scheduler (`GMP model`) serta pembuktian lewat `pprof` dan `strace`.
+* **Pola Kesalahan yang Perlu Diwaspadai (`[KONSEP]` / `[MODEL]` / `[EKSEKUSI]`):** `[MODEL]` Kadang membawa pola *exception hierarchy* Python ke Go alih-alih menangani `error` sebagai nilai eksplisit; `[EKSEKUSI]` lupa menutup *cancel function* dari `context.WithTimeout`.
+* **Kalibrasi Tingkat & Ketegasan Aktual:** Siap diberi pertanyaan tajam setara *senior code review* dan *whiteboard interview* tanpa perlu pengantar dasar pemrograman.

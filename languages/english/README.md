@@ -6,7 +6,9 @@ Bahasa Inggris sebagai **gerbang menuju pendidikan STEM dunia**. Sebagian besar 
 
 ---
 
-## 1. Jalur Fokus
+## 1. Jalur Fokus & Roadmap
+
+Detail tahapan dari Fase 0 hingga Fase 5 ada di **[roadmap.md](roadmap.md)**.
 
 | Jalur | Untuk Siapa | Fokus |
 |---|---|---|
@@ -63,6 +65,7 @@ Contoh karya: ringkasan paper, esai beasiswa (ditulis sendiri, diberi umpan bali
 ```text
 english/
 ├── README.md        # Dokumen ini
-├── notes/           # learning-log.md, catatan grammar, kosakata lintas topik
-└── projects/        # Ringkasan paper, esai, skrip presentasi
+├── roadmap.md       # Fase 0–5: kosakata STEM, buku teks, kuliah terbuka, paper, technical writing, presentasi
+├── notes/           # learning-log.md, glossary.md, catatan grammar & kosakata lintas topik
+└── projects/        # Ringkasan paper, esai, dokumentasi proyek, skrip presentasi
 ```

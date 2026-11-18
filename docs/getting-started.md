@@ -42,7 +42,7 @@ Cocok untuk guru, pelajar, dan pembelajar umum yang tidak memakai Git atau AI ID
 | Backend Go | `engineering/software/go/` → `README.md`, `rules.md`, `rules-concepts-and-antipatterns.md` |
 | Frontend React | `engineering/software/react/` → `README.md`, `rules.md`, `rules-patterns-and-architecture.md` |
 | UI/UX Mobile | `engineering/software/ui-ux-mobile/` → `README.md`, `rules.md` |
-| Bahasa Inggris / Jepang | `languages/english/README.md` atau `languages/japanese/` → `README.md`, `roadmap.md`, `notes/glossary.md` |
+| Bahasa Inggris / Jepang | `languages/english/` atau `languages/japanese/` → `README.md`, `roadmap.md`, `notes/glossary.md` |
 | Guru yang merancang materi ajar | Cukup berkas "selalu unggah" di atas. Topik khusus tidak wajib. |
 | Topik yang belum tersedia (mis. kimia, biologi) | Cukup berkas "selalu unggah", lalu ketik `"buat topik baru [nama]"`. |
 

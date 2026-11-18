@@ -24,6 +24,12 @@
 * **Bahasa Komunikasi:** Bahasa Indonesia.
 * **Tingkat Kedalaman:** Ringkas & praktis.
 * **Gaya Penjelasan Favorit:** Studi kasus kelas dan langkah demi langkah.
+* **Mode Pembaruan Memori:** Minta konfirmasi dulu *(default)*.
 
 ## 7. Catatan Khusus
 * **Guru:** Peserta didik kelas 8, kemampuan beragam, sebagian kesulitan membaca teks panjang. Butuh analogi yang dekat dengan kehidupan desa.
+
+## 8. Catatan Pengamatan Mentor (Diisi & Diperbarui oleh AI Mentor)
+* **Analogi & Representasi yang Terbukti Efektif:** Analogi irigasi sawah, berkebun, dan alat dapur sangat efektif untuk apersepsi kelas.
+* **Pola Kesalahan yang Perlu Diwaspadai (`[KONSEP]` / `[MODEL]` / `[EKSEKUSI]`):** Miskonsepsi umum peserta didik yang sering ditemui di kelasnya: `[KONSEP]` mengira tumbuhan bernapas hanya di malam hari dan benda berat pasti tenggelam.
+* **Kalibrasi Tingkat & Ketegasan Aktual:** Lebih terbantu dengan draf aktivitas berdurasi 2 × 40 menit menggunakan alat peraga murah dan rubrik skor 0–5 yang ringkas.

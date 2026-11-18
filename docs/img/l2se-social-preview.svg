@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" role="img" aria-labelledby="sp-t sp-d">
+<title id="sp-t">L2SE — Learner to Systems Engineer</title>
+<desc id="sp-d">Mentor AI berbasis Markdown + Git untuk belajar STEM dari prinsip dasar menuju cara berpikir seorang engineer.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0f172a"/>
+    <stop offset="55%" stop-color="#1e3a8a"/>
+    <stop offset="100%" stop-color="#0f766e"/>
+  </linearGradient>
+</defs>
+<rect width="1280" height="640" fill="url(#bg)"/>
+<circle cx="1150" cy="110" r="220" fill="#38bdf8" fill-opacity="0.08"/>
+<circle cx="1060" cy="540" r="260" fill="#2dd4bf" fill-opacity="0.08"/>
+
+<!-- Top badges -->
+<rect x="56" y="58" width="230" height="44" rx="22" fill="#1d4ed8" stroke="#93c5fd" stroke-width="1.5"/>
+<text x="171" y="86" font-size="18" font-weight="700" fill="#e0f2fe" text-anchor="middle">AGENTS.md · TPACK</text>
+<rect x="302" y="58" width="250" height="44" rx="22" fill="#0f766e" stroke="#5eead4" stroke-width="1.5"/>
+<text x="427" y="86" font-size="18" font-weight="700" fill="#ccfbf1" text-anchor="middle">First-Principles STEM</text>
+<rect x="568" y="58" width="220" height="44" rx="22" fill="#334155" stroke="#94a3b8" stroke-width="1.5"/>
+<text x="678" y="86" font-size="18" font-weight="700" fill="#f1f5f9" text-anchor="middle">Open-Source · MIT</text>
+
+<!-- Main Title -->
+<text x="56" y="210" font-size="108" font-weight="800" fill="#ffffff" letter-spacing="2">L2SE</text>
+<text x="344" y="176" font-size="38" font-weight="700" fill="#93c5fd">Learner to Systems Engineer</text>
+<text x="344" y="216" font-size="22" font-weight="400" fill="#cbd5e1">Framework Markdown + Git untuk Mentor AI STEM Pribadi</text>
+
+<!-- Subtitle -->
+<text x="56" y="285" font-size="28" font-weight="600" fill="#f8fafc">Bernalar dari prinsip dasar, bereksperimen, dan merancang seperti engineer —</text>
+<text x="56" y="325" font-size="28" font-weight="400" fill="#bae6fd">bukan sekadar menghafal rumus atau menerima jawaban instan.</text>
+
+<!-- 4 Feature Cards -->
+<rect x="56" y="375" width="277" height="145" rx="16" fill="#1e293b" fill-opacity="0.82" stroke="#38bdf8" stroke-width="1.5"/>
+<text x="78" y="415" font-size="18" font-weight="700" fill="#38bdf8">1. Personal (LEARNER.md)</text>
+<text x="78" y="450" font-size="17" fill="#e2e8f0">Profil mini wajib, jembatan</text>
+<text x="78" y="476" font-size="17" fill="#e2e8f0">konsep, &amp; memori proaktif</text>
+<text x="78" y="502" font-size="17" fill="#94a3b8">untuk 5 peran pengguna.</text>
+
+<rect x="353" y="375" width="277" height="145" rx="16" fill="#1e293b" fill-opacity="0.82" stroke="#2dd4bf" stroke-width="1.5"/>
+<text x="375" y="415" font-size="18" font-weight="700" fill="#2dd4bf">2. Tangga Bantuan L1–L4</text>
+<text x="375" y="450" font-size="17" fill="#e2e8f0">Socratic, Feynman, Pólya,</text>
+<text x="375" y="476" font-size="17" fill="#e2e8f0">ujian lisan, &amp; integritas</text>
+<text x="375" y="502" font-size="17" fill="#94a3b8">akademik kanonik.</text>
+
+<rect x="650" y="375" width="277" height="145" rx="16" fill="#1e293b" fill-opacity="0.82" stroke="#a78bfa" stroke-width="1.5"/>
+<text x="672" y="415" font-size="18" font-weight="700" fill="#c4b5fd">3. Paket STEM &amp; Bahasa</text>
+<text x="672" y="450" font-size="17" fill="#e2e8f0">Matematika, Fisika, CS,</text>
+<text x="672" y="476" font-size="17" fill="#e2e8f0">Software Eng, English &amp;</text>
+<text x="672" y="502" font-size="17" fill="#94a3b8">Japanese for STEM.</text>
+
+<rect x="947" y="375" width="277" height="145" rx="16" fill="#1e293b" fill-opacity="0.82" stroke="#fbbf24" stroke-width="1.5"/>
+<text x="969" y="415" font-size="18" font-weight="700" fill="#fcd34d">4. Lintas Platform AI</text>
+<text x="969" y="450" font-size="17" fill="#e2e8f0">Antigravity, Claude Code,</text>
+<text x="969" y="476" font-size="17" fill="#e2e8f0">Cursor, Copilot, ChatGPT,</text>
+<text x="969" y="502" font-size="17" fill="#94a3b8">Claude &amp; Gemini Web.</text>
+
+<!-- Footer bar -->
+<text x="56" y="585" font-size="20" font-weight="600" fill="#93c5fd">github.com/Raguna633/l2se</text>
+<text x="1224" y="585" font-size="19" font-weight="500" fill="#cbd5e1" text-anchor="end">Pelajar · Mahasiswa · Engineer · Guru/Dosen · Pembelajar Umum</text>
+</svg>

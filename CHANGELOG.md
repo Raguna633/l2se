@@ -8,8 +8,12 @@ Format mengikuti [Keep a Changelog](https://keepachangelog.com/id-ID/1.1.0/), da
 
 ### Ditambahkan
 - **Pembaruan Memori Proaktif (*Event-Driven*) & Catatan Pengamatan Mentor** di `AGENTS.md` dan `templates/template-learner.md`: mentor aktif mengusulkan atau menyimpan pembaruan `LEARNER.md` (termasuk pola kesalahan dan analogi efektif), `learning-log.md`, dan `glossary.md` tanpa harus menunggu perintah eksplisit, dilengkapi opsi `Mode Pembaruan Memori: Otomatis` untuk AI IDE serta pembuatan berkas siap unduh untuk aplikasi *chat* web.
+- **`README.en.md`** sebagai ringkasan berbahasa Inggris untuk pengunjung global, serta banner `docs/img/l2se-social-preview.svg`.
+- **`languages/english/roadmap.md`** (Fase 0–5: kosakata STEM, buku teks & dokumentasi, kuliah terbuka, paper ilmiah, *technical writing*, hingga presentasi & wawancara internasional).
+- **Skill `.agents/skills/l2se-mentor/SKILL.md`** (terdaftar di `.agents/skills.json`) agar seluruh alur perintah utama L2SE dapat dipanggil lewat menu *slash command* (`/l2se-mentor`) di AI IDE.
 
 ### Diubah
+- Contoh profil dan sesi di `docs/examples/` diperbarui dengan skenario sesi pertama (`LEARNER.md` belum ada), `Mode Pembaruan Memori`, `Catatan Pengamatan Mentor`, dan klasifikasi kesalahan (`[KONSEP]`, `[MODEL]`, `[EKSEKUSI]`).
 - Onboarding di `AGENTS.md`, `docs/cara-kerja.md`, `docs/getting-started.md`, dan `docs/platform-compatibility.md`: menerapkan **Profil Mini Wajib (3 konteks)** sebelum masuk ke materi serta *progressive profiling*, beserta aturan penanganan input ambigu (maksimal 1 klarifikasi konkret).
 - Penguatan *tone* mentor di `AGENTS.md`, `mathematics/foundations/rules.md`, dan `science/physics/rules.md`: **hangat tetapi tegas** (*anti-sycophancy*, tidak meloloskan jawaban setengah benar, menahan desakan jawaban instan).
 - Sinkronisasi `PROTOKOL-BERSAMA` **v6** di tiga berkas mentor *software*.
