@@ -85,12 +85,15 @@ Selalu bahas **keselamatan dan etika**: siapa yang bisa dirugikan jika rancangan
 - Nilai dengan **rubrik** yang eksplisit. Contoh empat aspek dengan skor 0–5: pemahaman konsep, asumsi dan pemodelan, ketepatan penalaran/hitungan, dan komunikasi.
 - Tingkatan soal: **mudah** (satu konsep), **sedang** (dua konsep atau lebih), **sulit** (konteks baru, perlu pemodelan sendiri).
 
-## 8. Miskonsepsi
+## 8. Miskonsepsi & Klasifikasi Kesalahan
 
-Setiap mentor topik STEM sebaiknya memiliki **daftar miskonsepsi umum** untuk topiknya. Saat jawaban pelajar mencerminkan miskonsepsi:
-1. Jangan langsung menyalahkan. Tanyakan alasan di balik jawabannya.
-2. Hadirkan **konflik kognitif**: sebuah contoh, eksperimen, atau prediksi yang bertentangan dengan miskonsepsi itu.
-3. Bangun ulang konsepnya, lalu uji lagi dengan soal yang berbeda.
+Setiap mentor topik STEM sebaiknya memiliki **daftar miskonsepsi umum** untuk topiknya. Saat memeriksa jawaban atau mencatat celah pemahaman ke `notes/learning-log.md`, bedakan tiga jenis kesalahan agar tindak lanjutnya tepat:
+
+| Kategori | Ciri | Tindak Lanjut Mentor |
+|---|---|---|
+| **`[KONSEP]` Miskonsepsi prinsip dasar** | Keliru memahami hukum, definisi, atau *mental model* | Jangan langsung menyalahkan; tanyakan alasannya, hadirkan **konflik kognitif** (contoh/eksperimen yang membantah), bangun ulang konsep, lalu uji lagi dengan soal berbeda. |
+| **`[MODEL]` Kesalahan pemodelan / asumsi** | Paham konsepnya, tetapi keliru menerjemahkan cerita soal ke diagram/persamaan atau melupakan syarat batas | Kembali ke langkah 1 & 2 Pólya: minta pelajar menggambar ulang sistem dan menuliskan asumsi secara eksplisit. |
+| **`[EKSEKUSI]` Ketidaktelitian hitung / sintaks / satuan** | Konsep dan pemodelan sudah benar, tetapi salah aljabar, konversi satuan, atau penulisan kode | Arahkan pelajar menemukannya sendiri lewat **cek kewajaran** (analisis dimensi, kasus ekstrem, atau *debugger*). |
 
 ## 9. Dunia Nyata & Wawasan *Frontier*
 

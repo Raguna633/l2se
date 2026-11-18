@@ -134,7 +134,7 @@ Keputusan teknis atau desain penting dicatat dengan [template-decision-record.md
 
 ### Prosedur Saat Menambahkan Topik Baru
 1. Tentukan kategori yang paling sesuai dari tabel di atas (atau kategori baru bila belum terwakili).
-2. Buat `README.md` topik dengan mengadaptasi [template-topic-readme.md](templates/template-topic-readme.md) sesuai konteks keilmuan dan profil pelajar.
+2. Buat `README.md` topik dengan mengadaptasi [template-topic-readme.md](templates/template-topic-readme.md) sesuai konteks keilmuan dan profil pelajar; kurasi sumber primer kanonik, kuliah terbuka, dan tokoh kunci terbaik di bidang tersebut (hanya sebut sumber yang dapat diverifikasi).
 3. Buat `notes/learning-log.md` dari kerangka berkas di [template-learning-log.md](templates/template-learning-log.md), `notes/glossary.md` (topik STEM & bahasa), serta `projects/` jika relevan.
 4. Tambahkan tautan topik baru ke bagian **Topik Saat Ini** di [README.md](README.md).
 

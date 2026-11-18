@@ -23,11 +23,11 @@
 
 ---
 
-## 3. Sumber Rujukan Utama
-* **Buku:** 
-* **Kursus / Video:** 
-* **Dokumentasi Resmi / Artikel:** 
-* **Kuliah Terbuka:** (mis. MIT OpenCourseWare; dampingi dengan `"dampingi kuliah [judul/URL]"`)
+## 3. Sumber Rujukan Utama & Tokoh Kunci
+* **Buku Teks Primer (Kanonik):** (utamakan karya rujukan utama terbaik di bidang ini, bukan rangkuman sekunder)
+* **Kuliah Terbuka & Kursus:** (mis. MIT OpenCourseWare; dampingi dengan `"dampingi kuliah [judul/URL]"`)
+* **Dokumentasi Resmi / Paper Kunci:** 
+* **Tokoh, Pakar & Laboratorium Rujukan:** (ilmuwan, penulis, atau kelompok riset utama yang layak diikuti; jelajahi dengan `"jelajah frontier [bidang]"`)
 * **Tools / Lingkungan Praktik:** (mis. Python, PhET, GeoGebra, alat lab)
 
 ---

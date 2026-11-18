@@ -46,7 +46,7 @@ Berkas ini dipakai pelajar dan AI Mentor untuk riwayat sesi, jadwal `"kuis ulang
 * (Konsep atau keterampilan yang sudah dipahami dan bisa dijelaskan dengan kata-kata sendiri)
 
 #### 2. Yang Masih Membingungkan / Salah Paham
-* (Hal-hal yang saat kuis/latihan sempat keliru atau butuh penelusuran lebih lanjut)
+* (Hal-hal yang saat kuis/latihan sempat keliru. Tandai jenisnya bila relevan: `[KONSEP]` miskonsepsi prinsip dasar / `[MODEL]` keliru pemodelan atau asumsi / `[EKSEKUSI]` ketidaktelitian hitung, satuan, atau sintaks)
 
 #### 3. Tugas Penerapan / Lab Sesi Ini
 * [ ] Tugas: (Deskripsi tugas / kode latihan)

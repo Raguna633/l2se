@@ -15,7 +15,7 @@ Rilis beta pertama dengan nama **L2SE — Learner to Systems Engineer**.
 - Onboarding lewat `"atur profil saya"` dan template profil `templates/template-learner.md`.
 - Perintah baru: `"perbarui profil"`, `"sesuaikan topik [nama]"`, `"rancang materi ajar [topik]"`, dan `"buat bank soal [topik]"`.
 - `notes/learning-log.md` di semua topik, dan `notes/glossary.md` di topik STEM beserta `templates/template-glossary.md`.
-- **Protokol STEM** (`docs/stem-pedagogy.md`): pemetaan kerangka teoretis **TPACK** (Mishra & Koehler, 2006), prinsip dasar sebelum rumus, kerangka Pólya, cek kewajaran, prediksi–amati–jelaskan, banyak representasi, proses desain rekayasa, soal terbuka berbasis rubrik, dan penanganan miskonsepsi.
+- **Protokol STEM** (`docs/stem-pedagogy.md`): pemetaan kerangka teoretis **TPACK** (Mishra & Koehler, 2006), prinsip dasar sebelum rumus, kerangka Pólya, cek kewajaran, prediksi–amati–jelaskan, banyak representasi, proses desain rekayasa, soal terbuka berbasis rubrik, serta penanganan miskonsepsi dan klasifikasi kesalahan (`[KONSEP]`, `[MODEL]`, `[EKSEKUSI]`).
 - Perintah STEM: `"turunkan [rumus]"`, `"uji lisan [topik]"`, `"dampingi kuliah [judul/URL]"`, `"baca bersama [teks]"`, dan `"jelajah frontier [bidang]"`.
 - **Paket mentor Matematika** (`mathematics/foundations/`): jalur SD/SMP → SMA → universitas → rekayasa/CS, roadmap 11 fase, aturan mentor, serta ±35 miskonsepsi, soal terbuka, dan rubrik.
 - **Paket mentor Fisika** (`science/physics/`): jalur fenomena → SMA → universitas → rekayasa, roadmap 12 fase, aturan mentor dengan keselamatan eksperimen, katalog eksperimen rumahan dan simulasi PhET, miskonsepsi, soal terbuka, dan rubrik.
