@@ -6,16 +6,14 @@ Format mengikuti [Keep a Changelog](https://keepachangelog.com/id-ID/1.1.0/), da
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-11-19
+
+Pembaruan besar tahap beta untuk onboarding, ketegasan mentor, memori proaktif, privasi profil, kemudahan pengguna awam, dan dokumentasi global.
+
 ### Ditambahkan
 - `LEARNER.md` dan `.l2se-backup/` ditambahkan ke `.gitignore` secara bawaan agar privasi profil tetap terjaga di repositori publik (`git add -f LEARNER.md` bila ingin dilacak).
 - **Mekanisme *backup* profil proaktif & mandiri** di `AGENTS.md`: setiap kali `LEARNER.md` dibuat atau berubah bermakna, mentor di AI IDE menyalin cadangan bertanggal ke `.l2se-backup/LEARNER.YYYY-MM-DD.md` (maks 5 versi terbaru) beserta pemberitahuan 1 baris ke pelajar, dan mendukung pemulihan bila `LEARNER.md` terhapus.
 - **Penyederhanaan Jalur A untuk pengguna awam** di `AGENTS.md`, `README.md`, dan `docs/getting-started.md`: pengguna chatbot web dapat langsung belajar tanpa urusan teknis file `.md` di awal, dan menyimpan profil lewat fitur *Memory* bawaan chatbot, *copy-paste* 1 kotak ringkas ke kolom instruksi, atau tombol unduh 1 klik.
-
-## [0.2.0] - 2026-11-19
-
-Pembaruan besar tahap beta untuk onboarding, ketegasan mentor, memori proaktif, dan dokumentasi global.
-
-### Ditambahkan
 - **Pembaruan Memori Proaktif (*Event-Driven*) & Catatan Pengamatan Mentor** di `AGENTS.md` dan `templates/template-learner.md`: mentor aktif mengusulkan atau menyimpan pembaruan `LEARNER.md` (termasuk pola kesalahan dan analogi efektif), `learning-log.md`, dan `glossary.md` tanpa harus menunggu perintah eksplisit, dilengkapi opsi `Mode Pembaruan Memori: Otomatis` untuk AI IDE serta pembuatan berkas siap unduh untuk aplikasi *chat* web.
 - **`README.en.md`** sebagai ringkasan berbahasa Inggris untuk pengunjung global, serta banner `docs/img/l2se-social-preview.svg`.
 - **`languages/english/roadmap.md`** (Fase 0–5: kosakata STEM, buku teks & dokumentasi, kuliah terbuka, paper ilmiah, *technical writing*, hingga presentasi & wawancara internasional).
