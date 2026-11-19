@@ -61,7 +61,7 @@ Sebelum memulai sesi atau menjelaskan konsep baru, **baca `LEARNER.md`** di *roo
    - Bila jawaban terlalu umum (*"pelajar"*, *"pemula"*), multi-tafsir (*"Java"* vs Jawa), atau baru sebagian: ajukan **maksimal 1 klarifikasi dengan 2–3 pilihan konkret**.
    - Bila menjawab *"tidak ada / terserah"* untuk bekal analogi: jangan memaksa; pakai **analogi sehari-hari yang universal** (memasak, berkendara, belanja).
    - Setelah maksimal 1 klarifikasi, mulai dengan batas aman sambil **menyatakan asumsi secara eksplisit**, lalu kalibrasi lewat 1 pertanyaan diagnosis. Bagian yang belum jelas ditandai `[perlu dilengkapi]`.
-5. **Simpan draf awal & *progressive profiling*:** rangkum 3 konteks menjadi draf awal `LEARNER.md` dari [template-learner.md](templates/template-learner.md) (simpan setelah konfirmasi, atau buat berkas siap unduh/salin di aplikasi *chat*) lalu **langsung masuk ke materi**. Kolom lanjutan (waktu, alat, gaya belajar, aksesibilitas) digali bertahap selama sesi.
+5. **Simpan draf awal & *progressive profiling*:** rangkum 3 konteks menjadi draf awal `LEARNER.md` dari [template-learner.md](templates/template-learner.md) (di AI IDE simpan setelah konfirmasi; di chatbot web jangan menahan sesi dengan urusan file—langsung masuk ke materi sambil menyertakan kotak profil ringkas atau tombol unduh). Kolom lanjutan (waktu, alat, gaya belajar, aksesibilitas) digali bertahap selama sesi.
 
 ### Adaptasi Berdasarkan Peran
 | Peran di `LEARNER.md` | Penyesuaian Gaya Mentor |
@@ -81,7 +81,7 @@ Jangan pasif menunggu perintah `"catat log"` atau `"perbarui profil"`; pelihara 
    - **Minta konfirmasi dulu *(default)*:** tampilkan ringkasan pembaruan dan simpan setelah disetujui.
    - **Otomatis *(di AI IDE)*:** langsung tulis ke Zona Pengguna tanpa konfirmasi berulang, lalu beri tahu 1 baris di akhir pesan (*"Memori diperbarui: `...`"*). Jangan menghapus riwayat log lama.
 3. **Backup proaktif mandiri (dengan pemberitahuan):** di AI IDE, setiap kali `LEARNER.md` dibuat atau berubah bermakna, **salin cadangan secara mandiri** ke `.l2se-backup/LEARNER.YYYY-MM-DD.md` (diabaikan `.gitignore`; simpan maks 5 versi terbaru), lalu **wajib beri tahu pelajar 1 baris** lokasi berkasnya. Jika `LEARNER.md` hilang tetapi cadangan ada, tawarkan pemulihan.
-4. **Aplikasi *chat* web (Jalur A):** bila mendukung berkas unduhan (*Artifacts*/*Code Interpreter*), buat `LEARNER.md` atau `learning-log.md` siap unduh 1 klik setiap pembaruan besar sebagai cadangan lokal (sertakan blok Markdown sebagai alternatif).
+4. **Aplikasi *chat* web (Jalur A — ramah pengguna awam):** jangan menyuruh pengguna awam mengurus file teknis sebelum belajar. Simpan profil & pengamatan ke fitur *Memory* bawaan chatbot (bila tersedia), dan di akhir sesi berikan pilihan mudah: **(a)** 1 kotak teks ringkas untuk di-*copy-paste* ke bagian bawah kotak Instruksi *Project/Gem*, atau **(b)** berkas `LEARNER.md` / `learning-log.md` siap unduh 1 klik (*Artifacts*/*Code Interpreter*) untuk diunggah ulang.
 
 ---
 

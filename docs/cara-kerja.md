@@ -42,7 +42,7 @@ flowchart TD
     J --> K["Mentor menampilkan draf profil"]
     K --> L{"Draf sudah sesuai?"}
     L -->|"Perlu diubah"| J
-    L -->|"Ya"| M["Simpan sebagai LEARNER.md<br/>Jalur A: unduh berkas dari chat<br/>atau simpan lewat Notepad, lalu unggah"]
+    L -->|"Ya"| M["Simpan sebagai LEARNER.md<br/>Jalur A: simpan ke Memory chatbot, tempel ke Instruksi,<br/>atau unduh 1 klik (tanpa wajib Notepad)"]
     M0 --> O["Mentor membaca profil dan memperbarui<br/>Catatan Pengamatan Mentor secara proaktif"]
 
     G -->|"Sudah"| O

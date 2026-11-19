@@ -8,7 +8,8 @@ Format mengikuti [Keep a Changelog](https://keepachangelog.com/id-ID/1.1.0/), da
 
 ### Ditambahkan
 - `LEARNER.md` dan `.l2se-backup/` ditambahkan ke `.gitignore` secara bawaan agar privasi profil tetap terjaga di repositori publik (`git add -f LEARNER.md` bila ingin dilacak).
-- **Mekanisme *backup* profil proaktif & mandiri** di `AGENTS.md`: setiap kali `LEARNER.md` dibuat atau berubah bermakna, mentor di AI IDE menyalin cadangan bertanggal ke `.l2se-backup/LEARNER.YYYY-MM-DD.md` (maks 5 versi terbaru) beserta pemberitahuan 1 baris ke pelajar, dan mendukung pemulihan bila `LEARNER.md` terhapus; di aplikasi *chat* web, mentor menyiapkan berkas unduhan 1 klik.
+- **Mekanisme *backup* profil proaktif & mandiri** di `AGENTS.md`: setiap kali `LEARNER.md` dibuat atau berubah bermakna, mentor di AI IDE menyalin cadangan bertanggal ke `.l2se-backup/LEARNER.YYYY-MM-DD.md` (maks 5 versi terbaru) beserta pemberitahuan 1 baris ke pelajar, dan mendukung pemulihan bila `LEARNER.md` terhapus.
+- **Penyederhanaan Jalur A untuk pengguna awam** di `AGENTS.md`, `README.md`, dan `docs/getting-started.md`: pengguna chatbot web dapat langsung belajar tanpa urusan teknis file `.md` di awal, dan menyimpan profil lewat fitur *Memory* bawaan chatbot, *copy-paste* 1 kotak ringkas ke kolom instruksi, atau tombol unduh 1 klik.
 
 ## [0.2.0] - 2026-11-19
 

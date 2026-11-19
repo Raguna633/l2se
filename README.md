@@ -45,7 +45,7 @@ Panduan lengkap per jalur dan per peran ada di **[docs/getting-started.md](docs/
 ### Jalur A — Tanpa Koding (pelajar, guru, pembelajar umum)
 1. Klik **Code → Download ZIP** di halaman GitHub ini, lalu ekstrak.
 2. Buat *Project* di Claude atau ChatGPT (atau *Gem* di Gemini). Tempel isi [AGENTS.md](AGENTS.md) sebagai instruksi (bila kolom instruksi terlalu pendek, ikuti [cara alternatif](docs/getting-started.md#jalur-a--tanpa-koding-lewat-aplikasi-chat)), lalu unggah [docs/stem-pedagogy.md](docs/stem-pedagogy.md), [templates/template-learner.md](templates/template-learner.md), dan berkas topik sesuai [daftar unggahan per topik](docs/getting-started.md#daftar-berkas-yang-diunggah-per-topik).
-3. Ketik `"atur profil saya"`, lalu `"mulai sesi belajar [topik]"`.
+3. Langsung ketik `"mulai sesi belajar [topik]"` (mentor akan menanyakan 3 pertanyaan singkat lalu langsung mengajar) atau `"atur profil saya"`. Tidak perlu repot membuat file manual—profil Anda dapat disimpan lewat fitur *Memory* chatbot, *copy-paste* ke kotak instruksi, atau unduh 1 klik.
 
 > **Batas usia:** setiap platform AI punya batas usia minimum dan aturan izin orang tua. Pelajar sekolah sebaiknya memeriksa syarat layanan platform yang dipakai dan belajar dengan pendampingan orang tua atau guru bila diperlukan.
 
