@@ -5,7 +5,7 @@ abstract: "Framework Markdown + Git yang mengubah AI agent menjadi mentor STEM p
 type: software
 authors:
   - name: "Raguna and L2SE contributors"
-version: "0.1.0"
+version: "0.2.0"
 license: MIT
 repository-code: "https://github.com/Raguna633/l2se"
 keywords:

@@ -1,11 +1,11 @@
 # L2SE — Learner to Systems Engineer
 
-[![Check docs](https://github.com/Raguna633/l2se/actions/workflows/check-docs.yml/badge.svg)](https://github.com/Raguna633/l2se/actions/workflows/check-docs.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![Status: beta](https://img.shields.io/badge/status-beta%20v0.1.0-orange)
+[![Check docs](https://github.com/Raguna633/l2se/actions/workflows/check-docs.yml/badge.svg)](https://github.com/Raguna633/l2se/actions/workflows/check-docs.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![Status: beta](https://img.shields.io/badge/status-beta%20v0.2.0-orange)
 
 **Mentor AI untuk belajar STEM dari prinsip dasar, menuju cara berpikir seorang *engineer*.**
 *An AI mentor framework for learning STEM from first principles.* — 🌐 **[English Overview (`README.en.md`)](README.en.md)**
 
-> **Status: beta (`v0.1.0`).** Struktur dan aturan sudah dapat dipakai, tetapi belum diuji luas oleh banyak pengguna. Masukan sangat diharapkan lewat [Issues](https://github.com/Raguna633/l2se/issues).
+> **Status: beta (`v0.2.0`).** Struktur dan aturan sudah dapat dipakai, tetapi belum diuji luas oleh banyak pengguna. Masukan sangat diharapkan lewat [Issues](https://github.com/Raguna633/l2se/issues).
 
 **L2SE** (dibaca "el-tu-es-i", kependekan dari ***Learner to Systems Engineer***) adalah *framework* terbuka berbasis Markdown + Git yang mengubah AI agent favorit Anda (Claude, ChatGPT, Gemini, Cursor, Copilot, Antigravity, dan lainnya) menjadi **mentor STEM pribadi**. Mentor ini tidak memberi jawaban instan. Ia membimbing Anda bernalar dari prinsip dasar, memecahkan masalah, bereksperimen, dan merancang, seperti seorang *engineer*.
 

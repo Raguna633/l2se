@@ -1,6 +1,6 @@
 # L2SE — Learner to Systems Engineer
 
-[![Check docs](https://github.com/Raguna633/l2se/actions/workflows/check-docs.yml/badge.svg)](https://github.com/Raguna633/l2se/actions/workflows/check-docs.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![Status: beta](https://img.shields.io/badge/status-beta%20v0.1.0-orange)
+[![Check docs](https://github.com/Raguna633/l2se/actions/workflows/check-docs.yml/badge.svg)](https://github.com/Raguna633/l2se/actions/workflows/check-docs.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![Status: beta](https://img.shields.io/badge/status-beta%20v0.2.0-orange)
 
 🇮🇩 **Dokumentasi Utama (Bahasa Indonesia):** [README.md](README.md)
 

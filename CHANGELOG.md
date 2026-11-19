@@ -6,6 +6,10 @@ Format mengikuti [Keep a Changelog](https://keepachangelog.com/id-ID/1.1.0/), da
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-11-19
+
+Pembaruan besar tahap beta untuk onboarding, ketegasan mentor, memori proaktif, dan dokumentasi global.
+
 ### Ditambahkan
 - **Pembaruan Memori Proaktif (*Event-Driven*) & Catatan Pengamatan Mentor** di `AGENTS.md` dan `templates/template-learner.md`: mentor aktif mengusulkan atau menyimpan pembaruan `LEARNER.md` (termasuk pola kesalahan dan analogi efektif), `learning-log.md`, dan `glossary.md` tanpa harus menunggu perintah eksplisit, dilengkapi opsi `Mode Pembaruan Memori: Otomatis` untuk AI IDE serta pembuatan berkas siap unduh untuk aplikasi *chat* web.
 - **`README.en.md`** sebagai ringkasan berbahasa Inggris untuk pengunjung global, serta banner `docs/img/l2se-social-preview.svg`.
