@@ -76,3 +76,9 @@ temp/
 # Untuk melacak mini-lab tertentu ke dalam repo utama, gunakan: git add -f <path>
 **/projects/*
 !**/projects/.gitkeep
+
+# Profil Pelajar & Cadangan Lokal
+# Secara default, LEARNER.md dan cadangan lokalnya diabaikan Git agar privasi profil
+# tetap terjaga di repositori publik. Untuk melacak LEARNER.md, gunakan: git add -f LEARNER.md
+LEARNER.md
+.l2se-backup/

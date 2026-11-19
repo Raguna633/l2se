@@ -56,7 +56,7 @@ Cocok untuk mahasiswa dan *engineer* yang memakai Claude Code, Cursor, GitHub Co
 
 1. Di GitHub, klik **Use this template → Create a new repository**. Pilih publik (sebagai portofolio) atau privat.
 2. *Clone* repositori baru Anda, lalu buka **folder root**-nya di AI IDE. Membuka dari *root* memastikan mentor dapat membaca `AGENTS.md`, `templates/`, dan semua topik.
-3. Ketik `"atur profil saya"` (atau langsung tanyakan topik—mentor akan menanyakan **3 konteks mini** dulu sebelum masuk ke materi). Mentor akan menyusun draf dan membuat `LEARNER.md` setelah Anda setujui, lalu melengkapinya bertahap selama sesi.
+3. Ketik `"atur profil saya"` (atau langsung tanyakan topik—mentor akan menanyakan **3 konteks mini** dulu sebelum masuk ke materi). Mentor akan menyusun draf dan membuat `LEARNER.md` setelah Anda setujui, lalu melengkapinya bertahap selama sesi. *(Catatan: `LEARNER.md` dan cadangan `.l2se-backup/` otomatis diabaikan `.gitignore` agar aman di repo publik; gunakan `git add -f LEARNER.md` bila ingin melacaknya.)*
 4. Ketik `"mulai sesi belajar [topik]"` atau `"buat topik baru [nama topik]"`.
 
 Cara tiap platform memuat aturan berbeda-beda. Periksa [platform-compatibility.md](platform-compatibility.md), terutama bila memakai Gemini CLI atau GitHub Copilot.

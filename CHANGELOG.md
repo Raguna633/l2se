@@ -6,6 +6,10 @@ Format mengikuti [Keep a Changelog](https://keepachangelog.com/id-ID/1.1.0/), da
 
 ## [Unreleased]
 
+### Ditambahkan
+- `LEARNER.md` dan `.l2se-backup/` ditambahkan ke `.gitignore` secara bawaan agar privasi profil tetap terjaga di repositori publik (`git add -f LEARNER.md` bila ingin dilacak).
+- **Mekanisme *backup* profil proaktif & mandiri** di `AGENTS.md`: setiap kali `LEARNER.md` dibuat atau berubah bermakna, mentor di AI IDE menyalin cadangan bertanggal ke `.l2se-backup/LEARNER.YYYY-MM-DD.md` (maks 5 versi terbaru) beserta pemberitahuan 1 baris ke pelajar, dan mendukung pemulihan bila `LEARNER.md` terhapus; di aplikasi *chat* web, mentor menyiapkan berkas unduhan 1 klik.
+
 ## [0.2.0] - 2026-11-19
 
 Pembaruan besar tahap beta untuk onboarding, ketegasan mentor, memori proaktif, dan dokumentasi global.

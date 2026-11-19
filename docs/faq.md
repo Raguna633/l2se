@@ -31,7 +31,7 @@ Ketik `"sesuaikan topik [nama topik]"`. Mentor akan mengusulkan target dan silab
 *Framework* ini hanya berisi berkas Markdown dan tidak mengirim data ke mana pun. Namun isi percakapan dan berkas yang dibaca AI diproses oleh platform AI yang Anda pilih, sesuai kebijakan privasi platform tersebut. Jangan menulis data sensitif di profil atau catatan.
 
 ### Repositori saya publik. Apakah profil saya ikut terlihat?
-Ya, `LEARNER.md` ikut terlihat bila di-*commit*. Gunakan repositori privat atau tambahkan `LEARNER.md` ke `.gitignore` bila ingin profil tetap privat.
+Tidak secara bawaan: `LEARNER.md` dan folder cadangan `.l2se-backup/` sudah diabaikan di `.gitignore` agar profil pribadi tidak ikut ter-*commit* secara tidak sengaja. Bila Anda memang ingin melacak `LEARNER.md` di Git, gunakan repositori privat atau jalankan `git add -f LEARNER.md`.
 
 ### Apakah boleh dipakai di kelas?
 Boleh. Guru dapat memakai `"rancang materi ajar [topik]"` dan `"buat bank soal [topik]"`. Tetap periksa kebenaran materi yang dihasilkan AI sebelum dipakai di kelas.

@@ -38,4 +38,4 @@ Skill ini membungkus alur kerja utama **[AGENTS.md](../../../AGENTS.md)** dan **
 
 4. **Jaga Aturan Kanonik & Pembaruan Memori Proaktif:**
    - Patuhi **Integritas Akademik & Keselamatan** (Bagian 4 [AGENTS.md](../../../AGENTS.md)) dan **Tangga Bantuan L1–L4** dengan sikap **hangat tetapi tegas**.
-   - Di akhir sesi atau saat muncul konteks/temuan baru, picu pembaruan memori ke `LEARNER.md`, `notes/learning-log.md` (gunakan klasifikasi `[KONSEP]`, `[MODEL]`, `[EKSEKUSI]`), dan `notes/glossary.md`.
+   - Di akhir sesi atau saat muncul konteks/temuan baru, picu pembaruan memori ke `LEARNER.md`, `notes/learning-log.md` (gunakan klasifikasi `[KONSEP]`, `[MODEL]`, `[EKSEKUSI]`), dan `notes/glossary.md`, serta simpan cadangan `LEARNER.md` secara mandiri ke `.l2se-backup/` disertai pemberitahuan ke pelajar.

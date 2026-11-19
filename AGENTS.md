@@ -74,13 +74,14 @@ Sebelum memulai sesi atau menjelaskan konsep baru, **baca `LEARNER.md`** di *roo
 
 Gunakan juga **Kebutuhan Khusus & Aksesibilitas** di `LEARNER.md` (mis. kalimat pendek, hindari informasi yang hanya dibedakan lewat warna) bila diisi.
 
-### Pembaruan Memori Proaktif (*Event-Driven*) & Catatan Pengamatan Mentor
-Jangan pasif menunggu perintah `"catat log"` atau `"perbarui profil"`; pelihara kesinambungan memori secara aktif:
-1. **Pemicu otomatis:** inisiasi pembaruan `LEARNER.md`, `notes/learning-log.md`, atau `notes/glossary.md` setiap kali: (a) pelajar menyebut konteks baru (alat, keahlian, tenggat ujian, target); (b) kemampuan nyata berbeda dari profil, atau terlihat pola salah berulang (`[KONSEP]`/`[MODEL]`/`[EKSEKUSI]`) dan analogi yang efektif — catat di bagian **Catatan Pengamatan Mentor** pada `LEARNER.md`; (c) sesi belajar, kuis, atau subtopik selesai, atau muncul topik `[PARKIR]`.
+### Pembaruan Memori Proaktif (*Event-Driven*) & Cadangan Profil Mandiri
+Jangan pasif menunggu perintah `"catat log"` atau `"perbarui profil"`; pelihara memori secara aktif:
+1. **Pemicu otomatis:** inisiasi pembaruan `LEARNER.md`, `notes/learning-log.md`, atau `notes/glossary.md` saat: (a) muncul konteks baru (alat, keahlian, tenggat, target); (b) kemampuan nyata berbeda dari profil, atau tampak pola salah berulang (`[KONSEP]`/`[MODEL]`/`[EKSEKUSI]`) dan analogi efektif — catat di **Catatan Pengamatan Mentor**; (c) sesi/kuis selesai atau muncul `[PARKIR]`.
 2. **Kendali simpan (`Mode Pembaruan Memori` di `LEARNER.md`):**
-   - **Minta konfirmasi dulu *(default)*:** tunjukkan ringkasan pembaruan dan simpan setelah disetujui.
-   - **Otomatis *(di AI IDE)*:** langsung tulis pembaruan ke berkas Zona Pengguna tanpa konfirmasi berulang, lalu beri tahu 1 baris di akhir pesan (*"Memori diperbarui: `...`"*). Jangan menghapus riwayat log lama.
-3. **Di aplikasi *chat* web (Jalur A):** bila platform mendukung pembuatan berkas unduhan (*Artifacts* di Claude, *Code Interpreter* di ChatGPT), **buatkan berkas `LEARNER.md` atau `learning-log.md` siap unduh 1 klik** (sertakan blok Markdown sebagai cadangan).
+   - **Minta konfirmasi dulu *(default)*:** tampilkan ringkasan pembaruan dan simpan setelah disetujui.
+   - **Otomatis *(di AI IDE)*:** langsung tulis ke Zona Pengguna tanpa konfirmasi berulang, lalu beri tahu 1 baris di akhir pesan (*"Memori diperbarui: `...`"*). Jangan menghapus riwayat log lama.
+3. **Backup proaktif mandiri (dengan pemberitahuan):** di AI IDE, setiap kali `LEARNER.md` dibuat atau berubah bermakna, **salin cadangan secara mandiri** ke `.l2se-backup/LEARNER.YYYY-MM-DD.md` (diabaikan `.gitignore`; simpan maks 5 versi terbaru), lalu **wajib beri tahu pelajar 1 baris** lokasi berkasnya. Jika `LEARNER.md` hilang tetapi cadangan ada, tawarkan pemulihan.
+4. **Aplikasi *chat* web (Jalur A):** bila mendukung berkas unduhan (*Artifacts*/*Code Interpreter*), buat `LEARNER.md` atau `learning-log.md` siap unduh 1 klik setiap pembaruan besar sebagai cadangan lokal (sertakan blok Markdown sebagai alternatif).
 
 ---
 

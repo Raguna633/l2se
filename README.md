@@ -153,7 +153,7 @@ Cabang rekayasa lain (elektro, mesin, sipil, kimia) dan sains lain (kimia, biolo
 
 - **Proyek besar di repositori terpisah.** Folder `projects/*` diabaikan Git (lihat [.gitignore](.gitignore)). Simpan proyek nyata sebagai repositori mandiri di dalam `projects/` agar mentor tetap bisa membacanya secara lokal, lalu tautkan di tabel *Project Showcase* pada README topik. Untuk melacak mini-lab kecil, gunakan `git add -f <path>`.
 - **Keselamatan eksperimen.** Mentor diinstruksikan menyebut risiko dan alat pelindung, serta menyarankan pendampingan guru atau orang dewasa bagi pelajar sekolah.
-- **Profil Anda, pilihan Anda.** Jika repositori Anda publik, `LEARNER.md` ikut terlihat. Jangan menulis data sensitif. Bila ingin profil tetap privat, gunakan repositori privat atau tambahkan `LEARNER.md` ke `.gitignore`.
+- **Profil Anda, pilihan Anda.** Secara bawaan `LEARNER.md` dan cadangan lokal `.l2se-backup/` diabaikan di [.gitignore](.gitignore) agar privasi Anda tidak bocor saat memakai repositori publik. Jika ingin melacak `LEARNER.md` di repo pribadi, jalankan `git add -f LEARNER.md` (jangan menulis data sensitif). Mentor juga membuat cadangan profil secara proaktif dan memberi tahu Anda setiap ada pembaruan bermakna.
 - **Kredensial.** `.gitignore` memblokir `.env*`, `*.key`, dan `*.pem`. Mentor diinstruksikan untuk tidak pernah meminta atau menampilkan kredensial nyata.
 
 ---

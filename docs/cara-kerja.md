@@ -147,7 +147,7 @@ flowchart TD
     A(["Sesi selesai atau subtopik tuntas"]) --> B["Mentor secara proaktif menyusun log<br/>atau pelajar mengetik 'catat log'"]
     B --> C["Draf entri log + Catatan Pengamatan Mentor"]
     C --> D{"Platform bisa menulis<br/>ke folder lokal?"}
-    D -->|"Ya, AI IDE"| E["Simpan ke notes/learning-log.md,<br/>glossary.md, dan LEARNER.md<br/>(setelah konfirmasi atau langsung jika mode Otomatis)"]
+    D -->|"Ya, AI IDE"| E["Simpan ke notes/learning-log.md,<br/>glossary.md, dan LEARNER.md<br/>(plus backup .l2se-backup/ dengan notifikasi)"]
     D -->|"Aplikasi chat web"| F["Mentor membuatkan berkas siap unduh<br/>atau blok siap salin untuk diunggah ulang"]
     E --> G
     F --> G
